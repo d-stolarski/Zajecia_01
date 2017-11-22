@@ -4,6 +4,11 @@ public class MyClass {
         System.out.println("się");
         System.out.println("programowania");
         System.out.println("i");
-        System.out.print("commitowania");
+        System.out.println("commitowania");
+
+
+        System.out.println(" ***    *** ");
+        System.out.println("  **   **  ");
+        System.out.println("     *     ");
     }
 }
